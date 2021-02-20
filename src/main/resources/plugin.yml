@@ -1,0 +1,10 @@
+name: AdvancedTeleportation
+version: 1.0.3
+main: me.slayor.Main
+api-version: 1.16
+commands:
+  setspawn:
+  spawn:
+  pwarps:
+  home:
+  sethome:

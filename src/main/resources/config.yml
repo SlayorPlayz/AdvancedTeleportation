@@ -1,0 +1,29 @@
+#Advanced Teleportation Settings/config.yml!
+
+#Admin permission for Player warp admin commands
+#Not suggested to change this.
+Admin_Permission: 'at.admin'
+
+#Should players get teleported to their homes on death?
+#WARNING: YOU WILL NEED TO SET SPAWN ON DEATH TO FALSE FOR THIS TO WORK AS TRUE!
+#WARNING: PLAYERS MUST HAVE A HOME FOR THIS TO WORK!
+Home_On_Death: 'false'
+
+#Should players get teleported to their homes on join?
+#WARNING: YOU WILL NEED TO SET SPAWN ON JOIN TO FALSE FOR THIS TO WORK AS TRUE!
+#WARNING: PLAYERS MUST HAVE A HOME FOR THIS TO WORK!
+Home_On_Join: 'false'
+
+#The time players should wait until they teleport to the spawn
+#WARNING: TIME IN SECONDS!
+Spawn_Delay: 5
+
+#Should players get teleported to the spawn on death?
+#WARNING: YOU WILL NEED TO SET HOME ON DEATH TO FALSE FOR THIS TO WORK AS TRUE!
+#WARNING: SPAWN NEEDS TO BE SET FOR THIS TO WORK!
+Spawn_On_Death: 'true'
+
+#Should players get teleported to spawn on join?
+#WARNING: YOU WILL NEED TO SET HOME ON JOIN TO FALSE FOR THIS TO WORK AS TRUE!
+#WARNING: SPAWN NEEDS TO BE SET FOR THIS TO WORK!
+Spawn_On_Join: 'true'
